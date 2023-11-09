@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sumanth1322
 - 👀 I’m interested in Full stack webdevelopment
-- 🌱 I’m currently learning HTML CSS
 - 💞️ I’m looking to collaborate on Webdevelopment
 - 📫 How to reach me Ssumanth429@gmail.com
 
